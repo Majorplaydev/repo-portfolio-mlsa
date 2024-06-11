@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a web developer, startup co-founder, Microsoft Student Ambassador, and web3 enthusiast passionate about building innovative solutions and exploring the ever-evolving world of technology";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Frontend dev",
+  "Smart contracts dev",
+  "Backend dev",
+  "3d Engr modeling",
+  "Webflow",
+  "project management",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  " Hey, I'm Ayo, a web developer, startup co-founder, Microsoft Student Ambassador, and web3 enthusiast. I'm passionate about building innovative solutions and exploring the ever-evolving world of technology. When I'm not coding, you can find me experimenting with smart contracts, geeking out over the latest tech trends, or belting out a tune. Let's connect and create something amazing together! 🚀";
 
 const About = () => {
   return (

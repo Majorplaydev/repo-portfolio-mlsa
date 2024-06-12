@@ -28,8 +28,8 @@ const Home = ({ name, title }) => {
   return (
     <section id="home" className="min-height">
       <img className="background" src={image} alt="" />
-      <div style={{ position: "absolute", top: "5rem", left: "2rem", width: "15rem" }}>
-        <h1>{name}</h1>
+      <div style={{ position: "absolute", top: "5rem", left: "2rem", width: "30rem" }}>
+        <h1 style={{ fontSize: "50px", fontWeight: "bold", paddingBottom: "4px" }}>{name}</h1>
         <h2>{title}</h2>
       </div>
       <div style={{ position: "absolute", bottom: "3rem", left: "50%" }}>
